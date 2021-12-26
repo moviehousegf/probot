@@ -6,15 +6,15 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
+<b>I am made for @movieshub10....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>I can only be used in my group....🎉</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b>🙂So dont waste your time...</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>Bye bye...</b>
 
-<b>Press /help to know about available commands🤪</b>"""    
+<b>See you later</b>"""   
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
@@ -49,15 +49,14 @@ class Translation(object):
 <b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
+<b>>➥👨‍💼Owner</b> : <b><a href="https://t.me/DhyanKN">👤Dhyan</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Helper</b> : <b><a href="https://t.me/subin123m">👤Deadpool</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2">💥Click Me</a></b>
 """
