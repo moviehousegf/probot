@@ -46,7 +46,7 @@ class Translation(object):
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
+<b><a href="https://t.me/movieshub10">© Movie House</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Auto Filter Bot</b>
