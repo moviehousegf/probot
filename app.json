@@ -14,11 +14,11 @@
     "success_url": "https://telegram.dog/moviehousegf2",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Take Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Take Your API Hash From my.telegram.org or @MT_MyTelegramOrg_Bot",
             "value": ""
         },
         "BOT_TOKEN": {
