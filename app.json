@@ -1,6 +1,6 @@
 {
-    "name": "Pro Auto Filter Bot V2",
-    "description": "Pro Auto Filter BoT V2 MoTect MRK_YT",
+    "name": "Probot",
+    "description": "Probot By Gf",
     "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.png",
     "keywords": [
         "Pro",
@@ -9,9 +9,9 @@
         "Bot",
         "V2"
     ],
-    "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/mo_tech_yt",
+    "website": "https://github.com/moviehousegf",
+    "repository": "https://github.com/moviehousegf/probot",
+    "success_url": "https://telegram.dog/moviehousegf2",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
